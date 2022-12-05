@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "displays all files including the hidden files in long format" >ls_cwd_content
